@@ -1,5 +1,5 @@
 # SM-2-rotateOnSpeech-webSerial
-Rotate a servo motor by speaking and saying "right" or "left" in Arabic.
+Rotate a servo motor by saying "right" or "left" in Arabic.
 
 The task was from Smart Methods which was about making a motion through speech on a servo motor. The needed requirements were to make a webDev/Serial port, an Arduino that is connected through the serial port and an HTML webpage to allow the user to translate the speech using a javascript file.
 
